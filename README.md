@@ -42,8 +42,7 @@ Comparative Insights
 
  Data Source
 
-The data used for this dashboard is from the Kaggle dataset: “Nutrition Facts for McDonald’s Menu”. 
-Kaggle
+The data used for this dashboard is from the Kaggle dataset
 
  Tools Used
 
