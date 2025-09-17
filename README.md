@@ -1,4 +1,4 @@
-McD Menu – Interactive Tableau Dashboard
+##McD Menu – Interactive Tableau Dashboard
 
 This project is an interactive Tableau dashboard exploring McDonald’s menu nutrition data. It delivers insights across multiple categories and highlights high-calorie and high-nutrient items.
 
