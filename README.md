@@ -18,16 +18,16 @@ This dashboard contains visualizations for:
 - % Daily Value of Calcium, Cholesterol, Iron, and Sodium  
 
 **High-Calorie & High-Nutrient Items**
-- 🔥 Top 20 Highest-Calorie Items  
-- 🧀 Top 20 Cheese Items with highest calories  
-- 🥚 Top 20 Egg Items with highest calories  
-- 🍗 Top 20 Chicken Items with highest calories  
-- 🍭 Top 20 High-Sugar Items  
-- 🍞 Top 20 High-Carb Items (% Daily Value)  
+-  Top 20 Highest-Calorie Items  
+-  Top 20 Cheese Items with highest calories  
+-  Top 20 Egg Items with highest calories  
+-  Top 20 Chicken Items with highest calories  
+-  Top 20 High-Sugar Items  
+-  Top 20 High-Carb Items (% Daily Value)  
 
 **Comparative Insights**
-- 🥚 Whole Egg vs Egg White nutrition profile  
-- 🍗 Grilled Chicken vs Crispy Chicken nutrition profile  
+-  Whole Egg vs Egg White nutrition profile  
+-  Grilled Chicken vs Crispy Chicken nutrition profile  
 
 ---
 
