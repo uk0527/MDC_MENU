@@ -1,8 +1,8 @@
-McD Menu – Tableau Dashboard
+McD Menu – Interactive Tableau Dashboard
 
-This project is an interactive Tableau dashboard that visualizes McDonald’s menu nutrition data and helps explore insights across multiple categories.
+This project is an interactive Tableau dashboard exploring McDonald’s menu nutrition data. It delivers insights across multiple categories and highlights high-calorie and high-nutrient items.
 
-Dashboard Highlights
+ Dashboard Highlights
 
 This dashboard contains visualizations for:
 
@@ -22,40 +22,52 @@ Micronutrient Breakdown
 
 High-Calorie & High-Nutrient Items
 
-🔥 Top 20 Highest-Calorie Items
+Top 20 Highest-Calorie Items
 
-🧀 Top 20 Cheese Items (highest calories)
+Top 20 Cheese Items with highest calories
 
-🥚 Top 20 Egg Items (highest calories)
+Top 20 Egg Items with highest calories
 
-🍗 Top 20 Chicken Items (highest calories)
+Top 20 Chicken Items with highest calories
 
-🍭 Top 20 High-Sugar Items
+Top 20 High-Sugar Items
 
-🍞 Top 20 High-Carb Items (% Daily Value)
+Top 20 High-Carb Items (% Daily Value)
 
 Comparative Insights
 
-🥚 Whole Egg vs Egg White nutrition profile
+Whole Egg vs Egg White nutrition profile
 
-🍗 Grilled Chicken vs Crispy Chicken nutrition profile
+Grilled Chicken vs Crispy Chicken nutrition profile
 
- Data Source
+ Data Source & Preprocessing
 
-The data used for this dashboard is from the Kaggle dataset
+Dataset: Nutrition Facts for McDonald’s Menu from Kaggle.
+
+File included: menu.csv
+
+Preprocessing Steps (if applicable):
+
+Cleaning missing / null values
+
+Standardizing units (serving size, grams, etc.)
+
+Filtering out items with incomplete nutrition data
+
+Calculating % Daily Values where needed
 
  Tools Used
 
-Tableau: Interactive visualizations & dashboard creation
+Tableau (include version if possible) — for building the interactive dashboard
 
-Python / Scripts (if applicable): for cleaning and processing the Kaggle data (optional mention if you used any preprocessing)
+Python / other scripting tools — used for data cleaning, transformation, or calculation of derived metrics
 
- Purpose
+Purpose & Who It’s For
 
 This dashboard is designed to:
 
-Help users make informed food choices
+Help food lovers and health-conscious individuals make better nutrition decisions
 
-Allow analysts to explore nutritional patterns interactively
+Allow analysts to explore patterns and trends in fast food nutrition
 
-Serve as a reference for data visualization projects
+Serve as a demonstration or starting point for visualization / nutrition projects
